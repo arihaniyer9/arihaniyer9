@@ -30,7 +30,7 @@
 
 ### Languages✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://icons8.com/icon/Xf1sHBmY73hA/typescript"/> <img src="https://icons8.com/icon/13441/python"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/> <img src="https://icons8.com/icon/13441/python"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
 
 ### DevOps & Cloud Tools⚒️
 
