@@ -1,4 +1,4 @@
-# Hi, I'm Hanesh 👋
+# Hi, I'm Arihan 👋
 
 ## About Me 👨‍💻
 
@@ -21,7 +21,7 @@
 ## Connect With Me👋🏼
 
 <p align="left">  
-<a href="https://www.linkedin.com/in/hanesh-iyer-2ba69528b" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/arihaniyer9" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 <a href="/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="haneshiyer9" height="35" width="35"/></a>
 </p>
