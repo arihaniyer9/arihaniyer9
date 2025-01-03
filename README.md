@@ -8,11 +8,13 @@
       
 🎓 I am currently pursuing my **Bachelor's in Information Technology Engineering**.
 
-🌱 I am currently learning **Java** and also interested in **AI & ML**.
+💻 I am currently working as a **Full-Stack Web Developer** and **AI & ML Engineer**.
+
+📱 I am also a **Flutter Developer** with experience building cool apps.
 
 🎯 My Goal is to Develop **Softwares** which make a **DIFFERENCE**.
 
-✨ I also love to read and write **novels**.
+✨ I also love to read and write **Novels**.
 
     
   </tr>
